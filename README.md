@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Mikael</h1>
+<h1>Hi 👋, It's me</h1>
 <p>I am a developer focused on creating modern and efficient web applications. I am passionate about working with JavaScript and its frameworks, such as React and Node.js, to build dynamic and scalable applications. In addition, I also have experience in mobile app development, creating seamless experiences for both Android and iOS.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 
